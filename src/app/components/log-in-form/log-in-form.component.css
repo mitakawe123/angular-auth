@@ -1,0 +1,7 @@
+.invalidInp {
+  border-color: red;
+}
+
+.validInp {
+  border-color: black;
+}
